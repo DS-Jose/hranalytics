@@ -6,6 +6,8 @@
 *  Goal is to perform EDA and create interactive dashboards to uncover insights
 *  Will demonstrate end-to-end analytics lifecycle on this real-world dataset
 
+![Screenshot of Excel table with employee data.](1ExcelRaw.png)
+
 ## Understanding HR Requirements
 
 *  Engaged end user Pinali to understand key questions around attendance, remote work, sick leaves
