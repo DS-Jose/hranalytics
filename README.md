@@ -19,6 +19,8 @@
 *  Used Power Query to import, append sheets, standardize columns, clean data
 *  Parameterized code for reusability, designed automated pipeline from Excel to analytics-ready structures
 
+![Screenshot of PowerQuery pivoting data from wide to long.](2PowerQuery.png)
+
 ## Creating Metrics Using DAX
 
 *  Built KPIs like Present Days, Total Working Days, Presence Percentage using DAX calculations
@@ -29,5 +31,7 @@
 *  Created interactive dashboards with trends, drill-downs and context on metrics
 *  Dashboards enabled self-service insights on attendance patterns and outliers
 *  Gathered feedback from Pinali on potential dashboard enhancements
+
+![Screenshot of final PowerBI dashboard](3HRDashboard.png)
 
 In summary, followed a structured analytics lifecycle to gather data, understand user needs, transform data, calculate metrics and create insights through dashboards. Demonstrated range of technical and analytics skills.
