@@ -31,7 +31,7 @@
 *  Created interactive dashboards with trends, drill-downs and context on metrics
 *  Dashboards enabled self-service insights on attendance patterns and outliers
 *  Gathered feedback from Pinali on potential dashboard enhancements
-*  Download the PowerBI dashboard [here](https://raw.githubusercontent.com/DS-Jose/hranalytics/blob/main/HRDashboard.pbix)
+*  Download the finished PowerBI dashboard [here](HRDashboard.pbix)
 
 ![Screenshot of final PowerBI dashboard](3HRDashboard.png)
 
