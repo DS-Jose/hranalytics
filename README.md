@@ -35,7 +35,7 @@
 
 ![Screenshot of final PowerBI dashboard](3HRDashboard.png)
 
-## Insights
+## Key Takeaways
 
 **Data Processing Insights**
 
