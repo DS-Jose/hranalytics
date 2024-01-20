@@ -31,9 +31,10 @@
 *  Created interactive dashboards with trends, drill-downs and context on metrics
 *  Dashboards enabled self-service insights on attendance patterns and outliers
 *  Gathered feedback from Pinali on potential dashboard enhancements
+*  Download the PowerBI dashboard [here](HRDashboard.pbix)
 
 ![Screenshot of final PowerBI dashboard](3HRDashboard.png)
 
 In summary, followed a structured analytics lifecycle to gather data, understand user needs, transform data, calculate metrics and create insights through dashboards. Demonstrated range of technical and analytics skills.
 
-This project is guided project by the YouTube video ["End to End Data Analysis Project | HR Analytics Power BI Project"](https://www.youtube.com/watch?v=JC66t9eM10s) by codebasics, all files available for download in the video description.
+This project is guided project by the YouTube video ["End to End Data Analysis Project | HR Analytics Power BI Project"](https://www.youtube.com/watch?v=JC66t9eM10s) by codebasics. All files available for download in the video description.
